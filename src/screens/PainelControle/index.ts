@@ -1,0 +1,1 @@
+export { PainelControle } from "./PainelControle";

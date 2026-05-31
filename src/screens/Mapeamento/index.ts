@@ -1,0 +1,1 @@
+export { Mapeamento } from "./Mapeamento";
